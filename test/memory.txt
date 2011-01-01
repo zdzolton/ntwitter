@@ -45,3 +45,28 @@ Then every 60s thereafter, for 10min:
 {"rss":13983744,"vsize":644161536,"heapTotal":6287424,"heapUsed":4020752,"tweets":761}
 {"rss":16306176,"vsize":644161536,"heapTotal":8645696,"heapUsed":4063720,"tweets":742}
 {"rss":15040512,"vsize":644161536,"heapTotal":8645696,"heapUsed":5595896,"tweets":695}
+
+
+jsonparse branch
+----------------
+
+First report 15s after connection:
+
+{"rss":15331328,"vsize":640831488,"heapTotal":9142336,"heapUsed":4694024,"tweets":107}
+
+Then every 60s thereafter, for ~10min:
+
+{"rss":16773120,"vsize":642138112,"heapTotal":9925696,"heapUsed":6137664,"tweets":359}
+{"rss":14127104,"vsize":642088960,"heapTotal":6530112,"heapUsed":4397856,"tweets":416}
+{"rss":14872576,"vsize":642613248,"heapTotal":7052352,"heapUsed":4711720,"tweets":395}
+{"rss":17559552,"vsize":642875392,"heapTotal":9671744,"heapUsed":6521448,"tweets":400}
+{"rss":18710528,"vsize":644247552,"heapTotal":10193984,"heapUsed":6429352,"tweets":406}
+{"rss":15962112,"vsize":643502080,"heapTotal":6791232,"heapUsed":4542848,"tweets":396}
+{"rss":15286272,"vsize":643239936,"heapTotal":6530112,"heapUsed":4304056,"tweets":398}
+{"rss":16175104,"vsize":643764224,"heapTotal":7052352,"heapUsed":5158208,"tweets":421}
+{"rss":15966208,"vsize":643502080,"heapTotal":6791232,"heapUsed":3963232,"tweets":389}
+{"rss":18481152,"vsize":644026368,"heapTotal":9671744,"heapUsed":5719208,"tweets":421}
+{"rss":18972672,"vsize":644288512,"heapTotal":9932864,"heapUsed":5809600,"tweets":399}
+{"rss":19337216,"vsize":644550656,"heapTotal":10193984,"heapUsed":7111704,"tweets":390}
+{"rss":20717568,"vsize":645988352,"heapTotal":10977344,"heapUsed":7229688,"tweets":438}
+{"rss":17563648,"vsize":645189632,"heapTotal":6791232,"heapUsed":4452080,"tweets":409}
